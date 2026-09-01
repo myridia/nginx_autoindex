@@ -1,3 +1,4 @@
+<img src="nginx_autoindex.svg" alt="nginx_autoindex" width="120">
 # files.cgi - Sortable File Browser
 
 A lightweight C CGI program that provides a sortable web-based file browser for nginx, served via fcgiwrap.
